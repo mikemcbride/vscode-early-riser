@@ -1,0 +1,40 @@
+{
+  "name": "early-riser",
+  "displayName": "Early Riser Syntax",
+  "description": "A light syntax theme for VS Code",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikemcbride/vscode-early-riser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mikemcbride/vscode-early-riser/issues",
+    "email": "mmcbride1007@icloud.com"
+  },
+  "publisher": "mikemcbride",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "syntax"
+  ],
+  "icon": "images/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Early Riser",
+        "uiTheme": "vs",
+        "path": "./themes/early-riser-color-theme.json"
+      }
+    ]
+  }
+}
