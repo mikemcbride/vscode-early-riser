@@ -1,40 +1,45 @@
 {
-  "name": "early-riser",
-  "displayName": "Early Riser Syntax",
-  "description": "A light syntax theme for VS Code",
-  "version": "1.0.1",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mikemcbride/vscode-early-riser.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mikemcbride/vscode-early-riser/issues",
-    "email": "mmcbride1007@icloud.com"
-  },
-  "publisher": "mikemcbride",
-  "engines": {
-    "vscode": "^1.22.0"
-  },
-  "scripts": {
-    "publish": "vsce publish"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "theme",
-    "light",
-    "syntax"
-  ],
-  "icon": "images/icon.png",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Early Riser",
-        "uiTheme": "vs",
-        "path": "./themes/early-riser-color-theme.json"
-      }
-    ]
-  }
+	"name": "early-riser",
+	"displayName": "Early Riser Syntax",
+	"description": "A light syntax theme for VS Code",
+	"version": "1.1.0",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mikemcbride/vscode-early-riser.git"
+	},
+	"bugs": {
+		"url": "https://github.com/mikemcbride/vscode-early-riser/issues",
+		"email": "mmcbride1007@icloud.com"
+	},
+	"publisher": "mikemcbride",
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"scripts": {
+		"publish": "vsce publish"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"light",
+		"syntax"
+	],
+	"icon": "images/icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Early Riser",
+				"uiTheme": "vs",
+				"path": "./themes/early-riser-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "d71dde59-eb2f-42bc-9311-a3147f6d2e09",
+		"publisherDisplayName": "Mike McBride",
+		"publisherId": "5865b7b1-2f2e-4200-b3b8-b60f7c844965"
+	}
 }
