@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "early-riser" extension will be documented in this file.
 
+## 1.1.2
+- Fix button text and hover background colors.
+
 ## 1.1.1
 - Fix find and replace background highlight color.
 
