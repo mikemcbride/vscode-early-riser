@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "early-riser" extension will be documented in this file.
 
+## 1.1.3
+- Updated icon.
+
 ## 1.1.2
 - Fix button text and hover background colors.
 
