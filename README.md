@@ -11,16 +11,15 @@
 
 Early Riser is a light syntax theme for VS Code for all you early risers out there.
 
-
 ## Screenshots
 
-![JS ScreenShot](https://cdn.jsdelivr.net/gh/mikemcbride/vscode-early-riser@master/images/js.png)
+![JS ScreenShot](images/js.png)
 
-![CSS ScreenShot](https://cdn.jsdelivr.net/gh/mikemcbride/vscode-early-riser@master/images/css.png)
+![CSS ScreenShot](images/css.png)
 
-![HTML ScreenShot](https://cdn.jsdelivr.net/gh/mikemcbride/vscode-early-riser@master/images/html.png)
+![HTML ScreenShot](images/html.png)
 
-![JSON ScreenShot](https://cdn.jsdelivr.net/gh/mikemcbride/vscode-early-riser@master/images/json.png)
+![JSON ScreenShot](images/json.png)
 
 ## Credits
 
