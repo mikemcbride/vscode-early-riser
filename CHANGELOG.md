@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "early-riser" extension will be documented in this file.
 
+## 1.1.5
+- Fix bad contrast on extension badges and buttons.
+
 ## 1.1.4
 - Blue HTML tags to match the original theme.
 
