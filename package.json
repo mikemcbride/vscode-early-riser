@@ -2,7 +2,7 @@
 	"name": "early-riser",
 	"displayName": "Early Riser Syntax",
 	"description": "A light syntax theme for VS Code",
-	"version": "1.1.5",
+	"version": "1.1.6",
 	"license": "MIT",
 	"repository": {
 		"type": "git",

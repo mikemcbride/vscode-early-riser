@@ -1109,7 +1109,7 @@
             "name": "Property Values for CSS",
             "scope": [
                "support.constant.font-name",
-               "support.constant.color" 
+               "support.constant.color"
             ],
             "settings": {
                 "foreground": "#ec790e"
@@ -1814,6 +1814,13 @@
             "settings": {
                 "foreground": "#8626dc",
                 "fontStyle": ""
+            }
+        },
+        {
+            "name": "HTML Component (React, Vue, etc)",
+            "scope": ["support.class.component.html"],
+            "settings": {
+                "foreground": "#0261DC"
             }
         },
         {
