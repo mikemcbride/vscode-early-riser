@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "early-riser" extension will be documented in this file.
 
+## 1.1.7
+- Lighten sidebar background
+
 ## 1.1.6
 - Make React/Vue component tags in HTML be the same color as normal HTML tags
 
