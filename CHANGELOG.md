@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "early-riser" extension will be documented in this file.
 
+## 1.2.1
+- Fix shipping unnecessary files in extension
+
 ## 1.2.0
 - Update theme to use vscode-theme-builder
 - Update colors
