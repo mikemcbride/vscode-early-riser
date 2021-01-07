@@ -68,7 +68,7 @@
         "editorIndentGuide.background": "#ffffff06",
         "editorLineNumber.activeForeground": "#757f92",
         "editorLineNumber.foreground": "{{ colors.gray.80 }}",
-        "editorLink.activeForeground": "{{ colors.transparent }}",
+        "editorLink.activeForeground": "{{ colors.cyan }}",
         "editorMarkerNavigation.background": "{{ colors.gray.40 }}",
         "editorMarkerNavigationError.background": "{{ colors.red }}",
         "editorMarkerNavigationWarning.background": "{{ colors.orange }}",

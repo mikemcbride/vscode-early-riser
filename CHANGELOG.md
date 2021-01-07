@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to the "early-riser" extension will be documented in this file.
 
+## 1.2.0
+- Update theme to use vscode-theme-builder
+- Update colors
+- Fixes "Go to definition" highlighting (`editorLink.activeForeground`) color being transparent. This made text disappear when using `option + click` to navigate to a different file. It is now cyan and underlined.
+
 ## 1.1.7
 - Lighten sidebar background
 
