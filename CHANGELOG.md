@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "early-riser" extension will be documented in this file.
 
+## 1.2.2
+- Fix poor color contrast on highlighted list items and editorSuggestWidget
+
 ## 1.2.1
 - Fix shipping unnecessary files in extension
 
