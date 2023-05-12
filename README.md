@@ -24,3 +24,7 @@ Early Riser is a light syntax theme for VS Code for all you early risers out the
 ## Credits
 
 Icon design by [David Leininger](https://twitter.com/davidleininger)
+
+## LICENSE
+
+[MIT](./LICENSE)
